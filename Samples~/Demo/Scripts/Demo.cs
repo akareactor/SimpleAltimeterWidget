@@ -3,7 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 
 
-namespace Kulibin.Space {
+namespace KulibinSpace.SimpleAltimeterWidget.Demo {
+    
 	public class Demo : MonoBehaviour {
 
 		public SimpleAltimeterWidget altimeter;

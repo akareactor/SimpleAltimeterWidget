@@ -2,8 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-
-namespace Kulibin.Space {
+namespace KulibinSpace.SimpleAltimeterWidget {
 
 	// простой бесконечный скроллер внутри этого контейнера
 	// GetComponent<RectTransform>().rect это габариты относительно точки pivot

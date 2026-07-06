@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
 
-namespace Kulibin.Space {
+namespace KulibinSpace.SimpleAltimeterWidget {
 
 	public class AltimeterScrollableItem : MonoBehaviour {
 
